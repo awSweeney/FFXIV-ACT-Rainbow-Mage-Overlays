@@ -15,6 +15,4 @@ To use this overlay, do the following:
 
 ## MPG_CritMonitor:
 
-Modified version of @awSweeney's modified version of the classic miniparse glow to display the new Shadowbringers jobs
-
 <img src="./images/preview/MPG_CritMonitor_Preview.jpg"/>
