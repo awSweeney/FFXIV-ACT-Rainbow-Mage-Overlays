@@ -17,7 +17,7 @@ var headerDefine =
 
 var bodyDefine =
     [
-        { html: "<img src='../images/glow/{JobOrName}.png' style='width=60%;height:60%;' onerror='this.src=\"../images/glow/error.png\";' />", align: "center", effect: dpsBarEffect },
+        { html: "<img src='../images/glow/{JobOrName}.png' style='width:20px;height:20px;' onerror='this.src=\"../images/glow/error.png\";' />", align: "center", effect: dpsBarEffect },
         { text: "{name}", width: "", align: "center", effect: myCharacterEffect },
         { text: "{encdps}", width: "", align: "center" },
         { text: "{damage%}", width: "", align: "center" },
@@ -76,6 +76,7 @@ function dpsBarEffect(cell, combatant, index) {
     tableRow.style.backgroundSize = (parseInt(deeps) * 100 / parseInt(dpsBarEffect.topdeeps)) + "% 100%";
     tableRow.style.backgroundAttachment = "fixed";
     tableRow.style.backgroundRepeat = "no-repeat";
+    tableRow.style.height = "20px";
 }
 
 function graphRendering(table) {
