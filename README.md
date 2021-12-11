@@ -1,12 +1,28 @@
 # ACT FFXIV Plugin Overlays
 
+## About:
+
 <br>
 
-Requires FFXIV [Overlay Plugin](https://github.com/RainbowMage/OverlayPlugin) to function.
+These are light-weight overlays meant to be used in conjunction with Advance Combat Tracker and the FFXIV plugin.
+
+<br>
+
+## Overlay Previews:
+<br>
+
+### Mini Parse Glow Classic
+
+<img src="./images/preview/MPG_CritMonitor_Preview.jpg"/>
+
 
 <br>
 
 ## How-To:
+
+<br>
+
+Requires FFXIV [Overlay Plugin](https://github.com/RainbowMage/OverlayPlugin) to function.
 
 <br>
 
@@ -25,12 +41,6 @@ To use this overlay, do the following:
 
 <br>
 
-## Overlay Preview:
-<br>
-
-<img src="./images/preview/MPG_CritMonitor_Preview.jpg"/>
-
-<br>
 
 ## Contributing:
 
@@ -43,6 +53,4 @@ PRs are open, in order to add new classes and icons do the following:
 1. Add the new class icons to the various images folders. 
    * Icons should be 32x32.
    * [Gamerscape](https://ffxiv.gamerescape.com/wiki/Dictionary_of_Icons) is often a good source.
-2. Update **MiniParseGlow_CritMonitor_4.05.html** with the class abbrevations.
-   * Search for **!EXPANSION UPDATE ME!** to locate the two lists to update.
-
+2. Update **config/config.js** with the new class abbrevations under the applicable role.
