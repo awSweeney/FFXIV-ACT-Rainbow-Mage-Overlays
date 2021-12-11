@@ -1,3 +1,4 @@
 v1.1.1
 - Fixes issue #7 where icons for unidentified entities were showing as a broken image link
+- Fixes issue #6 where rows were displaying at an inconsistent height
 - Directory structure reworked for furture maintainability and growth
