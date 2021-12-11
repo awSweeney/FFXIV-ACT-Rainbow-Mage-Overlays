@@ -1,0 +1,3 @@
+v1.1.1
+- Fixes issue #7 where icons for unidentified entities were showing as a broken image link
+- Directory structure reworked for furture maintainability and growth
