@@ -17,7 +17,11 @@ html {
 	background-color: transparent;
 	overflow: hidden;
 }
-
+#container {
+	background: rgba(0,0,0,0.4);
+    padding: 10px;
+    border-radius: 10px;
+}
 #combatantTable {
 	width: 100%;
 	table-layout: fixed;
