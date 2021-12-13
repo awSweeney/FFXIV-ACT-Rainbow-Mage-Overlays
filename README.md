@@ -84,3 +84,4 @@ PRs are open, feel free to contribute:
   2. Update **config/config.js** with the new class abbrevations under the applicable role.
 - Overlay components should be distibuted properly in their respective folders.
 - New overlays should include a preview image and be added to the preview list.
+  * Credit yourself where applicable!
