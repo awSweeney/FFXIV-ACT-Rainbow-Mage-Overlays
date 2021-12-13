@@ -15,6 +15,26 @@ These are light-weight overlays meant to be used in conjunction with Advance Com
 
 <img src="./images/preview/MPG_CritMonitor_Preview.jpg"/>
 
+<br>
+
+### Mini Parse Glow Classic BG
+#### Created by @Vrandus
+
+<img src="./images/preview/MiniParseGlow_CritMonitor_Classic_BG.png"/>
+
+<br>
+
+### Mini Parse Glow HPS MaxHit Highlighted You BG
+#### Created by @Vrandus
+
+<img src="./images/preview/MiniParseGlow_HPS_MaxHit_HighlightedYou_BG.png"/>
+
+<br>
+
+### Mini Parse Glow HPS MaxHit Highlighted You
+#### Created by @Vrandus
+
+<img src="./images/preview/MiniParseGlow_HPS_MaxHit_HighlightedYou.png"/>
 
 <br>
 

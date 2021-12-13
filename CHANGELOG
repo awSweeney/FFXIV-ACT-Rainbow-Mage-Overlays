@@ -1,3 +1,9 @@
+v1.2.0
+- Adds 3 new overlay types
+    - MiniParseGlow_CritMonitor_Classic_BG
+    - MiniParseGlow_HPS_MaxHit_HighlightedYou_BG
+    - MiniParseGlow_HPS_MaxHit_HighlightedYou
+
 v1.1.2
 - Fixes issue #10 where resize handle was missing.
 
