@@ -4,6 +4,7 @@
 ![Works with OverlayPlugin](https://img.shields.io/badge/works%20with-FFXIV%20Endwalker-blue.svg?style=flat)
 [![Requires ACT](https://img.shields.io/badge/requires-Advanced%20Combat%20Tracker-blue.svg?style=flat)](https://advancedcombattracker.com/download.php)
 [![Requires OverlayPlugin](https://img.shields.io/badge/requires-OverlayPlugin-blue.svg?style=flat)](https://github.com/RainbowMage/OverlayPlugin)
+![License](https://img.shields.io/github/license/awSweeney/FFXIV-ACT-Rainbow-Mage-Overlays)
 
 
 ## About
@@ -13,7 +14,7 @@ These are light-weight overlays meant to be used in conjunction with [Advanced C
   - [About](#about)
   - [Overlay Previews](#overlay-previews)
   - [Setup](#setup)
-  - [Contributing:](#contributing)
+  - [Contributing](#contributing)
 
 <br>
 
