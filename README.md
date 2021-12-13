@@ -1,6 +1,6 @@
 # ACT FFXIV Plugin Overlays
 
-![Release Version](https://img.shields.io/github/v/release/awSweeney/FFXIV-ACT-Rainbow-Mage-Overlays)
+[![Release Version](https://img.shields.io/github/v/release/awSweeney/FFXIV-ACT-Rainbow-Mage-Overlays)](https://github.com/awSweeney/FFXIV-ACT-Rainbow-Mage-Overlays/releases)
 ![Works with OverlayPlugin](https://img.shields.io/badge/works%20with-FFXIV%20Endwalker-blue.svg?style=flat)
 [![Requires ACT](https://img.shields.io/badge/requires-Advanced%20Combat%20Tracker-blue.svg?style=flat)](https://advancedcombattracker.com/download.php)
 [![Requires OverlayPlugin](https://img.shields.io/badge/requires-OverlayPlugin-blue.svg?style=flat)](https://github.com/RainbowMage/OverlayPlugin)
