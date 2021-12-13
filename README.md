@@ -24,17 +24,21 @@ These are light-weight overlays meant to be used in conjunction with [Advanced C
 <img src="./images/preview/MPG_CritMonitor_Preview.jpg"/>
 </details>
 
+
 <details>
 <summary style="font-weight:bold">Mini Parse Glow Classic BG</summary>
 <p style="font-style:italic">Created by @Vrandus</p>
 <img src="./images/preview/MiniParseGlow_CritMonitor_Classic_BG.png"/>
 </details>
 
+
 <details>
 <summary style="font-weight:bold">Mini Parse Glow HPS MaxHit Highlighted You BG</summary>
 <p style="font-style:italic">Created by @Vrandus</p>
+
 <img src="./images/preview/MiniParseGlow_HPS_MaxHit_HighlightedYou_BG.png"/>
 </details>
+
 
 <details>
 <summary style="font-weight:bold">Mini Parse Glow HPS MaxHit Highlighted You</summary>
