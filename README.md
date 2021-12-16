@@ -58,26 +58,36 @@ To use this overlay, do the following:
 3. Download the latest release of this overlay (click 'releases' above and download the latest version).
 4. Extract the 'FFXIV-ACT-Rainbow-Mage-Overlays' zip into your ACT installation directory.
 5. Install the OverlayPlugin.
-    1. Goto the **Plugins** tab and click the **Get Plugins...** button.
+    * Goto the **Plugins** tab and click the **Get Plugins...** button.
+    
     <br>
     <img src="./images/preview/overlay-plugin-install-1.png" width="1375px"/>
-    <br>
-    1. Select the **OverlayPlugin** option.
+    <br><br>
+    
+    * Select the **OverlayPlugin** option.
+    
     <br>
     <img src="./images/preview/overlay-plugin-install-2.png"/>
-    <br>
-    1. Once installed goto the **OverlayPlugin.dll** tab and press the **New** button.
+    <br><br>
+    
+    * Once installed goto the **OverlayPlugin.dll** tab and press the New button.
+    
     <br>
     <img src="./images/preview/overlay-plugin-install-3.png" width="1375px"/>
-    <br>
-    1. Create a new Overlay using the **'Custom' Preset** and **'MiniParse' type**. Giving it a name of your choosing.
+    <br><br>
+    
+    * Create a new Overlay using the **'Custom' Preset** and **'MiniParse' type**. Giving it a name of your choosing.
+    
     <br>
     <img src="./images/preview/overlay-plugin-install-4.png"/>
-    <br>
-    1. In the **URL** text box link the path to the overlay of your choosing.
+    <br><br>
+    
+    * In the **URL** text box link the path to the overlay of your choosing.
+    
     <br>
     <img src="./images/preview/overlay-plugin-install-5.png" width="1375px"/>
-    <br>
+    <br><br>
+    
 6. Note that you may need to run ACT in Admin mode for it to function.
 
 <br>
