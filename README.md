@@ -1,9 +1,8 @@
 # ACT FFXIV Plugin Overlays
 
 [![Release Version](https://img.shields.io/github/v/release/awSweeney/FFXIV-ACT-Rainbow-Mage-Overlays)](https://github.com/awSweeney/FFXIV-ACT-Rainbow-Mage-Overlays/releases)
-![Works with OverlayPlugin](https://img.shields.io/badge/works%20with-FFXIV%20Endwalker-blue.svg?style=flat)
+![Works with Endwalker](https://img.shields.io/badge/works%20with-FFXIV%20Endwalker-blue.svg?style=flat)
 [![Requires ACT](https://img.shields.io/badge/requires-Advanced%20Combat%20Tracker-blue.svg?style=flat)](https://advancedcombattracker.com/download.php)
-[![Requires OverlayPlugin](https://img.shields.io/badge/requires-OverlayPlugin-blue.svg?style=flat)](https://github.com/RainbowMage/OverlayPlugin)
 ![License](https://img.shields.io/github/license/awSweeney/FFXIV-ACT-Rainbow-Mage-Overlays)
 
 
@@ -36,7 +35,6 @@ These are light-weight overlays meant to be used in conjunction with [Advanced C
 <details>
 <summary style="font-weight:bold">Mini Parse Glow HPS MaxHit Highlighted You BG</summary>
 <p style="font-style:italic">Created by @Vrandus</p>
-
 <img src="./images/preview/MiniParseGlow_HPS_MaxHit_HighlightedYou_BG.png"/>
 </details>
 
@@ -54,22 +52,33 @@ These are light-weight overlays meant to be used in conjunction with [Advanced C
 
 <br>
 
-Requires FFXIV [Overlay Plugin](https://github.com/RainbowMage/OverlayPlugin) to function.
-
-<br>
-
 To use this overlay, do the following:
 1. Download and configure [Advanced Combat Tracker](https://advancedcombattracker.com/download.php)
-2. Download and configure the [FFXIV Overlay Plugin](https://github.com/RainbowMage/OverlayPlugin/blob/master/README-en.md)
-   * You may need to 'unblock' the included DLL files. You can do this by right clicking on them, going to properties, and then checking 'unblock' at the bottom of the dialog window
-3. Download the latest release of this overlay (click 'releases' above and download the latest version)
-4. Extract the 'FFXIV-ACT-Rainbow-Mage-Overlays' zip into your ACT installation directory
-5. Open ACT, select the 'Plugins' tab, then the 'OverlayPlugin.dll' tab, then the 'Mini Parse' tab
-6. Configure the URL field to point to the MiniParseGlow_CritMonitor_4.05.html file within the 'FFXIV-ACT-Rainbow-Mage-Overlays' folder as follows:
-
-<br>
-
-<img src="./images/preview/act_miniparse_glow_config.png"/>
+2. Select FFXIV parsing plugin after installation.
+3. Download the latest release of this overlay (click 'releases' above and download the latest version).
+4. Extract the 'FFXIV-ACT-Rainbow-Mage-Overlays' zip into your ACT installation directory.
+5. Install the OverlayPlugin.
+    1. Goto the **Plugins** tab and click the **Get Plugins...** button.
+    <br>
+    <img src="./images/preview/overlay-plugin-install-1.png" width="1375px"/>
+    <br>
+    1. Select the **OverlayPlugin** option.
+    <br>
+    <img src="./images/preview/overlay-plugin-install-2.png"/>
+    <br>
+    1. Once installed goto the **OverlayPlugin.dll** tab and press the **New** button.
+    <br>
+    <img src="./images/preview/overlay-plugin-install-3.png" width="1375px"/>
+    <br>
+    1. Create a new Overlay using the **'Custom' Preset** and **'MiniParse' type**. Giving it a name of your choosing.
+    <br>
+    <img src="./images/preview/overlay-plugin-install-4.png"/>
+    <br>
+    1. In the **URL** text box link the path to the overlay of your choosing.
+    <br>
+    <img src="./images/preview/overlay-plugin-install-5.png" width="1375px"/>
+    <br>
+6. Note that you may need to run ACT in Admin mode for it to function.
 
 <br>
 
