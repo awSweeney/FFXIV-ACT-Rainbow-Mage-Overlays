@@ -92,9 +92,15 @@ function graphRendering(table) {
     });
 }
 
+// new websockets for newer OverlayPlugin integrations (e.g IINACT)
+addOverlayListener("CombatData", function (e) {
+    update(e);
+});
+// continue to support legacy listener
 document.addEventListener("onOverlayDataUpdate", function (e) {
     update(e.detail);
 });
+startOverlayEvents()
 
 function update(data) {
     updateEncounter(data);
@@ -175,6 +181,7 @@ function updateCombatantList(data) {
     for (var combatantName in data.Combatant) {
         var combatant = data.Combatant[combatantName];
         combatant.JobOrName = combatant.Job || combatantName;
+        combatant.JobOrName = combatant.JobOrName.toLowerCase();
         var egiSearch = combatant.JobOrName.indexOf("-Egi (");
         if (egiSearch != -1) {
             combatant.JobOrName = combatant.JobOrName.substring(0, egiSearch);
